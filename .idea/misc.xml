@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/20202376/StudioProjects/StickyEars/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/20202376/StudioProjects/StickyEars/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+        <entry key="..\:/Users/20202376/StudioProjects/MyApplication2/app/src/main/res/layout/fragment_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_home.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_notification.xml" value="0.21875" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/fragment_settings.xml" value="0.2869791666666667" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_stickyear.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/list_timeline.xml" value="0.33" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/layout/switchwifipopup.xml" value="0.21875" />
+        <entry key="..\:/Users/hugov/AndroidStudioProjects/MyApplication2/app/src/main/res/menu/nav_menu.xml" value="0.21875" />
       </map>
     </option>
   </component>
